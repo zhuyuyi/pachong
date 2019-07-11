@@ -1,0 +1,646 @@
+{
+    "status": 1,
+    "paging": {
+        "is_last_page": false
+    },
+    "result": [
+        {
+            "equip_type": "1",
+            "price": 680000,
+            "other_info": {
+                "school": 7,
+                "icon": "/game_res/res/photo/0009.png",
+                "level_desc": "69\u7ea7",
+                "highlights": [
+                    "9\u7ea2\u795e\u5ba0",
+                    "\u6ee1\u7ea7\u9635\u6cd5x1",
+                    "\u6fc0\u6d3b\u7ecf\u8109"
+                ],
+                "desc_sumup": "\u603b\u8bc4\u5206:29831   \u4eba\u7269\u8bc4\u5206:18185",
+                "basic_attrs": [
+                    "\u603b\u8bc4\u5206:29831",
+                    "\u4eba\u7269\u8bc4\u5206:18185"
+                ],
+                "format_equip_name": "\u9b54\u738b\u5be8",
+                "desc_sumup_short": "\u603b\u8bc4\u5206:29831   \u4eba\u7269\u8bc4\u5206:18185"
+            },
+            "allow_urs_bargain": true,
+            "storage_type": 4,
+            "expire_remain_seconds": 682413,
+            "serverid": 29,
+            "collect_num": 22,
+            "pass_fair_show": 1,
+            "icon": "/game_res/res/photo/0009.png",
+            "server_name": "\u7d2b\u7981\u4e4b\u5dc5",
+            "level_desc": "69\u7ea7",
+            "highlights": [
+                "9\u7ea2\u795e\u5ba0",
+                "\u6ee1\u7ea7\u9635\u6cd5x1",
+                "\u6fc0\u6d3b\u7ecf\u8109"
+            ],
+            "game_ordersn": "201903250001716-29-NR0VCTBCECMXN",
+            "platform_type": 1,
+            "allow_bargain": true,
+            "equip_level": 69,
+            "format_equip_name": "\u9b54\u738b\u5be8",
+            "area_name": "\u4e00\u533a",
+            "game_channel": "netease",
+            "desc_sumup_short": "\u603b\u8bc4\u5206:29831   \u4eba\u7269\u8bc4\u5206:18185"
+        },
+        {
+            "equip_type": "1",
+            "price": 890000,
+            "other_info": {
+                "school": 7,
+                "icon": "/game_res/res/photo/0005.png",
+                "level_desc": "69\u7ea7",
+                "highlights": [
+                    "\u53cc\u84dd\u88c5\u5907x4",
+                    "9\u7ea2\u795e\u5ba0",
+                    "\u6ee1\u7ea7\u9635\u6cd5x3"
+                ],
+                "desc_sumup": "\u603b\u8bc4\u5206:31045   \u4eba\u7269\u8bc4\u5206:17343",
+                "basic_attrs": [
+                    "\u603b\u8bc4\u5206:31045",
+                    "\u4eba\u7269\u8bc4\u5206:17343"
+                ],
+                "format_equip_name": "\u9b54\u738b\u5be8",
+                "desc_sumup_short": "\u603b\u8bc4\u5206:31045   \u4eba\u7269\u8bc4\u5206:17343"
+            },
+            "allow_urs_bargain": true,
+            "storage_type": 4,
+            "expire_remain_seconds": 542155,
+            "serverid": 82,
+            "collect_num": 22,
+            "pass_fair_show": 1,
+            "icon": "/game_res/res/photo/0005.png",
+            "server_name": "\u5367\u864e\u85cf\u9f99",
+            "level_desc": "69\u7ea7",
+            "highlights": [
+                "\u53cc\u84dd\u88c5\u5907x4",
+                "9\u7ea2\u795e\u5ba0",
+                "\u6ee1\u7ea7\u9635\u6cd5x3"
+            ],
+            "game_ordersn": "201906232201716-82-SRBAFCQN6P82O",
+            "platform_type": 2,
+            "allow_bargain": true,
+            "equip_level": 69,
+            "format_equip_name": "\u9b54\u738b\u5be8",
+            "area_name": "\u56db\u533a",
+            "game_channel": "netease",
+            "desc_sumup_short": "\u603b\u8bc4\u5206:31045   \u4eba\u7269\u8bc4\u5206:17343"
+        },
+        {
+            "equip_type": "1",
+            "price": 655500,
+            "other_info": {
+                "school": 7,
+                "icon": "/game_res/res/photo/0005.png",
+                "level_desc": "69\u7ea7",
+                "highlights": [
+                    "9\u7ea2\u795e\u5ba0",
+                    "\u6ee1\u7ea7\u9635\u6cd5x1",
+                    "\u6fc0\u6d3b\u7ecf\u8109"
+                ],
+                "desc_sumup": "\u603b\u8bc4\u5206:30217   \u4eba\u7269\u8bc4\u5206:17466",
+                "basic_attrs": [
+                    "\u603b\u8bc4\u5206:30217",
+                    "\u4eba\u7269\u8bc4\u5206:17466"
+                ],
+                "format_equip_name": "\u9b54\u738b\u5be8",
+                "desc_sumup_short": "\u603b\u8bc4\u5206:30217   \u4eba\u7269\u8bc4\u5206:17466"
+            },
+            "allow_urs_bargain": false,
+            "storage_type": 4,
+            "expire_remain_seconds": 859046,
+            "serverid": 47,
+            "collect_num": 22,
+            "pass_fair_show": 1,
+            "icon": "/game_res/res/photo/0005.png",
+            "server_name": "\u65f6\u7a7a\u4e4b\u9699",
+            "level_desc": "69\u7ea7",
+            "highlights": [
+                "9\u7ea2\u795e\u5ba0",
+                "\u6ee1\u7ea7\u9635\u6cd5x1",
+                "\u6fc0\u6d3b\u7ecf\u8109"
+            ],
+            "game_ordersn": "201906121301716-47-CUB2CWEOAG0MY",
+            "platform_type": 1,
+            "allow_bargain": false,
+            "equip_level": 69,
+            "format_equip_name": "\u9b54\u738b\u5be8",
+            "area_name": "\u53cc\u5e73\u53f0",
+            "game_channel": "netease",
+            "desc_sumup_short": "\u603b\u8bc4\u5206:30217   \u4eba\u7269\u8bc4\u5206:17466"
+        },
+        {
+            "equip_type": "1",
+            "price": 569900,
+            "other_info": {
+                "school": 7,
+                "icon": "/game_res/res/photo/0012.png",
+                "level_desc": "69\u7ea7",
+                "highlights": [
+                    "\u795e\u517dx2",
+                    "8\u7ea2\u795e\u5ba0",
+                    "\u6ee1\u7ea7\u9635\u6cd5x3"
+                ],
+                "desc_sumup": "\u603b\u8bc4\u5206:30173   \u4eba\u7269\u8bc4\u5206:18344",
+                "basic_attrs": [
+                    "\u603b\u8bc4\u5206:30173",
+                    "\u4eba\u7269\u8bc4\u5206:18344"
+                ],
+                "format_equip_name": "\u9b54\u738b\u5be8",
+                "desc_sumup_short": "\u603b\u8bc4\u5206:30173   \u4eba\u7269\u8bc4\u5206:18344"
+            },
+            "allow_urs_bargain": false,
+            "storage_type": 4,
+            "expire_remain_seconds": 198041,
+            "serverid": 48,
+            "collect_num": 22,
+            "pass_fair_show": 1,
+            "icon": "/game_res/res/photo/0012.png",
+            "server_name": "\u643a\u624b\u9010\u68a6",
+            "level_desc": "69\u7ea7",
+            "highlights": [
+                "\u795e\u517dx2",
+                "8\u7ea2\u795e\u5ba0",
+                "\u6ee1\u7ea7\u9635\u6cd5x3"
+            ],
+            "game_ordersn": "201903270201716-48-YBOMFD8GMU4ON",
+            "platform_type": 1,
+            "allow_bargain": false,
+            "equip_level": 69,
+            "format_equip_name": "\u9b54\u738b\u5be8",
+            "area_name": "\u53cc\u5e73\u53f0",
+            "game_channel": "netease",
+            "desc_sumup_short": "\u603b\u8bc4\u5206:30173   \u4eba\u7269\u8bc4\u5206:18344"
+        },
+        {
+            "equip_type": "1",
+            "price": 334400,
+            "other_info": {
+                "school": 7,
+                "icon": "/game_res/res/photo/0006.png",
+                "level_desc": "69\u7ea7",
+                "highlights": [
+                    "8\u7ea2\u795e\u5ba0",
+                    "\u6ee1\u7ea7\u9635\u6cd5x1",
+                    "\u6fc0\u6d3b\u7ecf\u8109"
+                ],
+                "desc_sumup": "\u603b\u8bc4\u5206:30800   \u4eba\u7269\u8bc4\u5206:18274",
+                "basic_attrs": [
+                    "\u603b\u8bc4\u5206:30800",
+                    "\u4eba\u7269\u8bc4\u5206:18274"
+                ],
+                "format_equip_name": "\u9b54\u738b\u5be8",
+                "desc_sumup_short": "\u603b\u8bc4\u5206:30800   \u4eba\u7269\u8bc4\u5206:18274"
+            },
+            "allow_urs_bargain": false,
+            "storage_type": 4,
+            "expire_remain_seconds": 168968,
+            "serverid": 12,
+            "collect_num": 22,
+            "pass_fair_show": 1,
+            "icon": "/game_res/res/photo/0006.png",
+            "server_name": "\u4e09\u9633\u5f00\u6cf0",
+            "level_desc": "69\u7ea7",
+            "highlights": [
+                "8\u7ea2\u795e\u5ba0",
+                "\u6ee1\u7ea7\u9635\u6cd5x1",
+                "\u6fc0\u6d3b\u7ecf\u8109"
+            ],
+            "game_ordersn": "201905220601716-12-RYJ782X8K5L5X",
+            "platform_type": 2,
+            "allow_bargain": false,
+            "equip_level": 69,
+            "format_equip_name": "\u9b54\u738b\u5be8",
+            "area_name": "\u4e00\u533a",
+            "game_channel": "netease",
+            "desc_sumup_short": "\u603b\u8bc4\u5206:30800   \u4eba\u7269\u8bc4\u5206:18274"
+        },
+        {
+            "equip_type": "1",
+            "price": 633300,
+            "other_info": {
+                "school": 3,
+                "icon": "/game_res/res/photo/0003.png",
+                "level_desc": "69\u7ea7",
+                "highlights": [
+                    "8\u7ea2\u795e\u5ba0",
+                    "\u6fc0\u6d3b\u7ecf\u8109"
+                ],
+                "desc_sumup": "\u603b\u8bc4\u5206:29261   \u4eba\u7269\u8bc4\u5206:16917",
+                "basic_attrs": [
+                    "\u603b\u8bc4\u5206:29261",
+                    "\u4eba\u7269\u8bc4\u5206:16917"
+                ],
+                "format_equip_name": "\u9f99\u5bab",
+                "desc_sumup_short": "\u603b\u8bc4\u5206:29261   \u4eba\u7269\u8bc4\u5206:16917"
+            },
+            "allow_urs_bargain": true,
+            "storage_type": 4,
+            "expire_remain_seconds": 506697,
+            "serverid": 47,
+            "collect_num": 22,
+            "pass_fair_show": 1,
+            "icon": "/game_res/res/photo/0003.png",
+            "server_name": "\u65f6\u7a7a\u4e4b\u9699",
+            "level_desc": "69\u7ea7",
+            "highlights": [
+                "8\u7ea2\u795e\u5ba0",
+                "\u6fc0\u6d3b\u7ecf\u8109"
+            ],
+            "game_ordersn": "201812251801716-47-9WFYAEJYYZIZ5",
+            "platform_type": 1,
+            "allow_bargain": true,
+            "equip_level": 69,
+            "format_equip_name": "\u9f99\u5bab",
+            "area_name": "\u53cc\u5e73\u53f0",
+            "game_channel": "netease",
+            "desc_sumup_short": "\u603b\u8bc4\u5206:29261   \u4eba\u7269\u8bc4\u5206:16917"
+        },
+        {
+            "equip_type": "1",
+            "price": 344400,
+            "other_info": {
+                "school": 7,
+                "icon": "/game_res/res/photo/0009.png",
+                "level_desc": "69\u7ea7",
+                "highlights": [
+                    "\u795e\u517dx1",
+                    "8\u7ea2\u795e\u5ba0",
+                    "\u6fc0\u6d3b\u7ecf\u8109"
+                ],
+                "desc_sumup": "\u603b\u8bc4\u5206:30762   \u4eba\u7269\u8bc4\u5206:16710",
+                "basic_attrs": [
+                    "\u603b\u8bc4\u5206:30762",
+                    "\u4eba\u7269\u8bc4\u5206:16710"
+                ],
+                "format_equip_name": "\u9b54\u738b\u5be8",
+                "desc_sumup_short": "\u603b\u8bc4\u5206:30762   \u4eba\u7269\u8bc4\u5206:16710"
+            },
+            "allow_urs_bargain": true,
+            "storage_type": 4,
+            "expire_remain_seconds": 69525,
+            "serverid": 2,
+            "collect_num": 22,
+            "pass_fair_show": 1,
+            "icon": "/game_res/res/photo/0009.png",
+            "server_name": "\u5929\u4e0b\u65e0\u53cc",
+            "level_desc": "69\u7ea7",
+            "highlights": [
+                "\u795e\u517dx1",
+                "8\u7ea2\u795e\u5ba0",
+                "\u6fc0\u6d3b\u7ecf\u8109"
+            ],
+            "game_ordersn": "201906041101716-2-A0LLJY9PG0EJXK",
+            "platform_type": 1,
+            "allow_bargain": true,
+            "equip_level": 69,
+            "format_equip_name": "\u9b54\u738b\u5be8",
+            "area_name": "\u4e00\u533a",
+            "game_channel": "netease",
+            "desc_sumup_short": "\u603b\u8bc4\u5206:30762   \u4eba\u7269\u8bc4\u5206:16710"
+        },
+        {
+            "equip_type": "1",
+            "price": 230000,
+            "other_info": {
+                "school": 7,
+                "icon": "/game_res/res/photo/0012.png",
+                "level_desc": "69\u7ea7",
+                "highlights": [
+                    "\u795e\u517dx1",
+                    "\u6ee1\u7ea7\u9635\u6cd5x1",
+                    "\u6fc0\u6d3b\u7ecf\u8109"
+                ],
+                "desc_sumup": "\u603b\u8bc4\u5206:29157   \u4eba\u7269\u8bc4\u5206:17444",
+                "basic_attrs": [
+                    "\u603b\u8bc4\u5206:29157",
+                    "\u4eba\u7269\u8bc4\u5206:17444"
+                ],
+                "format_equip_name": "\u9b54\u738b\u5be8",
+                "desc_sumup_short": "\u603b\u8bc4\u5206:29157   \u4eba\u7269\u8bc4\u5206:17444"
+            },
+            "allow_urs_bargain": false,
+            "storage_type": 4,
+            "expire_remain_seconds": 250746,
+            "serverid": 130,
+            "collect_num": 22,
+            "pass_fair_show": 1,
+            "icon": "/game_res/res/photo/0012.png",
+            "server_name": "\u5982\u610f\u65b0\u6625",
+            "level_desc": "69\u7ea7",
+            "highlights": [
+                "\u795e\u517dx1",
+                "\u6ee1\u7ea7\u9635\u6cd5x1",
+                "\u6fc0\u6d3b\u7ecf\u8109"
+            ],
+            "game_ordersn": "201906200901716-130-N1AFNQJFDS2U",
+            "platform_type": 1,
+            "allow_bargain": false,
+            "equip_level": 69,
+            "format_equip_name": "\u9b54\u738b\u5be8",
+            "area_name": "\u53cc\u5e73\u53f0",
+            "game_channel": "netease",
+            "desc_sumup_short": "\u603b\u8bc4\u5206:29157   \u4eba\u7269\u8bc4\u5206:17444"
+        },
+        {
+            "equip_type": "1",
+            "price": 299900,
+            "other_info": {
+                "school": 7,
+                "icon": "/game_res/res/photo/0014.png",
+                "level_desc": "69\u7ea7",
+                "highlights": [
+                    "\u795e\u517dx1",
+                    "8\u7ea2\u795e\u5ba0",
+                    "\u6fc0\u6d3b\u7ecf\u8109"
+                ],
+                "desc_sumup": "\u603b\u8bc4\u5206:31353   \u4eba\u7269\u8bc4\u5206:18144",
+                "basic_attrs": [
+                    "\u603b\u8bc4\u5206:31353",
+                    "\u4eba\u7269\u8bc4\u5206:18144"
+                ],
+                "format_equip_name": "\u9b54\u738b\u5be8",
+                "desc_sumup_short": "\u603b\u8bc4\u5206:31353   \u4eba\u7269\u8bc4\u5206:18144"
+            },
+            "allow_urs_bargain": false,
+            "storage_type": 4,
+            "expire_remain_seconds": 1177020,
+            "serverid": 65,
+            "collect_num": 22,
+            "pass_fair_show": 1,
+            "icon": "/game_res/res/photo/0014.png",
+            "server_name": "\u6d41\u8424\u706f",
+            "level_desc": "69\u7ea7",
+            "highlights": [
+                "\u795e\u517dx1",
+                "8\u7ea2\u795e\u5ba0",
+                "\u6fc0\u6d3b\u7ecf\u8109"
+            ],
+            "game_ordersn": "201906232201716-65-CMVETPUFFZ8R8",
+            "platform_type": 1,
+            "allow_bargain": false,
+            "equip_level": 69,
+            "format_equip_name": "\u9b54\u738b\u5be8",
+            "area_name": "\u53cc\u5e73\u53f0",
+            "game_channel": "netease",
+            "desc_sumup_short": "\u603b\u8bc4\u5206:31353   \u4eba\u7269\u8bc4\u5206:18144"
+        },
+        {
+            "equip_type": "1",
+            "price": 279900,
+            "other_info": {
+                "school": 7,
+                "icon": "/game_res/res/photo/0005.png",
+                "level_desc": "69\u7ea7",
+                "highlights": [
+                    "10\u7ea2\u795e\u5ba0",
+                    "\u6fc0\u6d3b\u7ecf\u8109"
+                ],
+                "desc_sumup": "\u603b\u8bc4\u5206:30096   \u4eba\u7269\u8bc4\u5206:17468",
+                "basic_attrs": [
+                    "\u603b\u8bc4\u5206:30096",
+                    "\u4eba\u7269\u8bc4\u5206:17468"
+                ],
+                "format_equip_name": "\u9b54\u738b\u5be8",
+                "desc_sumup_short": "\u603b\u8bc4\u5206:30096   \u4eba\u7269\u8bc4\u5206:17468"
+            },
+            "allow_urs_bargain": false,
+            "storage_type": 4,
+            "expire_remain_seconds": 1100750,
+            "serverid": 92,
+            "collect_num": 21,
+            "pass_fair_show": 1,
+            "icon": "/game_res/res/photo/0005.png",
+            "server_name": "\u4eba\u6708\u4e24\u5706",
+            "level_desc": "69\u7ea7",
+            "highlights": [
+                "10\u7ea2\u795e\u5ba0",
+                "\u6fc0\u6d3b\u7ecf\u8109"
+            ],
+            "game_ordersn": "201906300901716-92-BDT00PABRLWDJ",
+            "platform_type": 2,
+            "allow_bargain": false,
+            "equip_level": 69,
+            "format_equip_name": "\u9b54\u738b\u5be8",
+            "area_name": "\u516b\u533a",
+            "game_channel": "netease",
+            "desc_sumup_short": "\u603b\u8bc4\u5206:30096   \u4eba\u7269\u8bc4\u5206:17468"
+        },
+        {
+            "equip_type": "1",
+            "price": 839900,
+            "other_info": {
+                "school": 7,
+                "icon": "/game_res/res/photo/0005.png",
+                "level_desc": "69\u7ea7",
+                "highlights": [
+                    "9\u7ea2\u795e\u5ba0",
+                    "\u6fc0\u6d3b\u7ecf\u8109"
+                ],
+                "desc_sumup": "\u603b\u8bc4\u5206:32888   \u4eba\u7269\u8bc4\u5206:19160",
+                "basic_attrs": [
+                    "\u603b\u8bc4\u5206:32888",
+                    "\u4eba\u7269\u8bc4\u5206:19160"
+                ],
+                "format_equip_name": "\u9b54\u738b\u5be8",
+                "desc_sumup_short": "\u603b\u8bc4\u5206:32888   \u4eba\u7269\u8bc4\u5206:19160"
+            },
+            "allow_urs_bargain": false,
+            "storage_type": 4,
+            "expire_remain_seconds": 1009560,
+            "serverid": 174,
+            "collect_num": 21,
+            "pass_fair_show": 1,
+            "icon": "/game_res/res/photo/0005.png",
+            "server_name": "2018",
+            "level_desc": "69\u7ea7",
+            "highlights": [
+                "9\u7ea2\u795e\u5ba0",
+                "\u6fc0\u6d3b\u7ecf\u8109"
+            ],
+            "game_ordersn": "201906091801716-174-PFMX9BJSTNRY",
+            "platform_type": 2,
+            "allow_bargain": false,
+            "equip_level": 69,
+            "format_equip_name": "\u9b54\u738b\u5be8",
+            "area_name": "\u53cc\u5e73\u53f0",
+            "game_channel": "netease",
+            "desc_sumup_short": "\u603b\u8bc4\u5206:32888   \u4eba\u7269\u8bc4\u5206:19160"
+        },
+        {
+            "equip_type": "1",
+            "price": 288800,
+            "other_info": {
+                "school": 3,
+                "icon": "/game_res/res/photo/0003.png",
+                "level_desc": "69\u7ea7",
+                "highlights": [
+                    "9\u7ea2\u795e\u5ba0",
+                    "\u6ee1\u7ea7\u9635\u6cd5x1",
+                    "\u6fc0\u6d3b\u7ecf\u8109"
+                ],
+                "desc_sumup": "\u603b\u8bc4\u5206:29344   \u4eba\u7269\u8bc4\u5206:17596",
+                "basic_attrs": [
+                    "\u603b\u8bc4\u5206:29344",
+                    "\u4eba\u7269\u8bc4\u5206:17596"
+                ],
+                "format_equip_name": "\u9f99\u5bab",
+                "desc_sumup_short": "\u603b\u8bc4\u5206:29344   \u4eba\u7269\u8bc4\u5206:17596"
+            },
+            "allow_urs_bargain": true,
+            "storage_type": 4,
+            "expire_remain_seconds": 161480,
+            "serverid": 9,
+            "collect_num": 21,
+            "pass_fair_show": 1,
+            "icon": "/game_res/res/photo/0003.png",
+            "server_name": "\u68a6\u60f3\u5c9b",
+            "level_desc": "69\u7ea7",
+            "highlights": [
+                "9\u7ea2\u795e\u5ba0",
+                "\u6ee1\u7ea7\u9635\u6cd5x1",
+                "\u6fc0\u6d3b\u7ecf\u8109"
+            ],
+            "game_ordersn": "201906181601716-9-CU7LIWT57INU1H",
+            "platform_type": 2,
+            "allow_bargain": true,
+            "equip_level": 69,
+            "format_equip_name": "\u9f99\u5bab",
+            "area_name": "\u4e03\u533a",
+            "game_channel": "netease",
+            "desc_sumup_short": "\u603b\u8bc4\u5206:29344   \u4eba\u7269\u8bc4\u5206:17596"
+        },
+        {
+            "equip_type": "1",
+            "price": 550000,
+            "other_info": {
+                "school": 7,
+                "icon": "/game_res/res/photo/0018.png",
+                "level_desc": "69\u7ea7",
+                "highlights": [
+                    "8\u7ea2\u795e\u5ba0",
+                    "\u6ee1\u7ea7\u9635\u6cd5x1",
+                    "\u6fc0\u6d3b\u7ecf\u8109"
+                ],
+                "desc_sumup": "\u603b\u8bc4\u5206:33294   \u4eba\u7269\u8bc4\u5206:19092",
+                "basic_attrs": [
+                    "\u603b\u8bc4\u5206:33294",
+                    "\u4eba\u7269\u8bc4\u5206:19092"
+                ],
+                "format_equip_name": "\u9b54\u738b\u5be8",
+                "desc_sumup_short": "\u603b\u8bc4\u5206:33294   \u4eba\u7269\u8bc4\u5206:19092"
+            },
+            "allow_urs_bargain": true,
+            "storage_type": 4,
+            "expire_remain_seconds": 224858,
+            "serverid": 132,
+            "collect_num": 20,
+            "pass_fair_show": 1,
+            "icon": "/game_res/res/photo/0018.png",
+            "server_name": "\u79cb\u6c34\u4eba\u5bb6",
+            "level_desc": "69\u7ea7",
+            "highlights": [
+                "8\u7ea2\u795e\u5ba0",
+                "\u6ee1\u7ea7\u9635\u6cd5x1",
+                "\u6fc0\u6d3b\u7ecf\u8109"
+            ],
+            "game_ordersn": "201905082301716-132-PYKV1QVJWZYE",
+            "platform_type": 2,
+            "allow_bargain": true,
+            "equip_level": 69,
+            "format_equip_name": "\u9b54\u738b\u5be8",
+            "area_name": "\u4e8c\u533a",
+            "game_channel": "netease",
+            "desc_sumup_short": "\u603b\u8bc4\u5206:33294   \u4eba\u7269\u8bc4\u5206:19092"
+        },
+        {
+            "equip_type": "1",
+            "price": 388800,
+            "other_info": {
+                "school": 7,
+                "icon": "/game_res/res/photo/0009.png",
+                "level_desc": "69\u7ea7",
+                "highlights": [
+                    "\u58c1\u5792\u5ba0\u7269",
+                    "9\u7ea2\u795e\u5ba0"
+                ],
+                "desc_sumup": "\u603b\u8bc4\u5206:30337   \u4eba\u7269\u8bc4\u5206:16812",
+                "basic_attrs": [
+                    "\u603b\u8bc4\u5206:30337",
+                    "\u4eba\u7269\u8bc4\u5206:16812"
+                ],
+                "format_equip_name": "\u9b54\u738b\u5be8",
+                "desc_sumup_short": "\u603b\u8bc4\u5206:30337   \u4eba\u7269\u8bc4\u5206:16812"
+            },
+            "allow_urs_bargain": true,
+            "storage_type": 4,
+            "expire_remain_seconds": 324314,
+            "serverid": 31,
+            "collect_num": 20,
+            "pass_fair_show": 1,
+            "icon": "/game_res/res/photo/0009.png",
+            "server_name": "\u7d2b\u6c14\u4e1c\u6765",
+            "level_desc": "69\u7ea7",
+            "highlights": [
+                "\u58c1\u5792\u5ba0\u7269",
+                "9\u7ea2\u795e\u5ba0"
+            ],
+            "game_ordersn": "201812062101716-31-JH7LPGN4C99JW",
+            "platform_type": 1,
+            "allow_bargain": true,
+            "equip_level": 69,
+            "format_equip_name": "\u9b54\u738b\u5be8",
+            "area_name": "\u4e00\u533a",
+            "game_channel": "netease",
+            "desc_sumup_short": "\u603b\u8bc4\u5206:30337   \u4eba\u7269\u8bc4\u5206:16812"
+        },
+        {
+            "equip_type": "1",
+            "price": 350000,
+            "other_info": {
+                "school": 7,
+                "icon": "/game_res/res/photo/0014.png",
+                "level_desc": "69\u7ea7",
+                "highlights": [
+                    "\u53cc\u84dd\u88c5\u5907x1",
+                    "8\u7ea2\u795e\u5ba0",
+                    "\u6fc0\u6d3b\u7ecf\u8109"
+                ],
+                "desc_sumup": "\u603b\u8bc4\u5206:30321   \u4eba\u7269\u8bc4\u5206:16703",
+                "basic_attrs": [
+                    "\u603b\u8bc4\u5206:30321",
+                    "\u4eba\u7269\u8bc4\u5206:16703"
+                ],
+                "format_equip_name": "\u9b54\u738b\u5be8",
+                "desc_sumup_short": "\u603b\u8bc4\u5206:30321   \u4eba\u7269\u8bc4\u5206:16703"
+            },
+            "allow_urs_bargain": true,
+            "storage_type": 4,
+            "expire_remain_seconds": 184914,
+            "serverid": 13,
+            "collect_num": 20,
+            "pass_fair_show": 1,
+            "icon": "/game_res/res/photo/0014.png",
+            "server_name": "\u7f18\u5b9a\u4e09\u751f",
+            "level_desc": "69\u7ea7",
+            "highlights": [
+                "\u53cc\u84dd\u88c5\u5907x1",
+                "8\u7ea2\u795e\u5ba0",
+                "\u6fc0\u6d3b\u7ecf\u8109"
+            ],
+            "game_ordersn": "201906051401716-13-NJNTV9Q0VGNFW",
+            "platform_type": 2,
+            "allow_bargain": true,
+            "equip_level": 69,
+            "format_equip_name": "\u9b54\u738b\u5be8",
+            "area_name": "\u4e00\u533a",
+            "game_channel": "netease",
+            "desc_sumup_short": "\u603b\u8bc4\u5206:30321   \u4eba\u7269\u8bc4\u5206:16703"
+        }
+    ],
+    "total_num": 579
+}
